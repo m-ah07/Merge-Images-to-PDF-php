@@ -43,14 +43,15 @@ echo "PDF successfully created at: {$outputPath}";
 ```
 
 ## Folder Structure
-
-merge-images-to-pdf/                                                                                                    
-├── examples/                # Folder containing usage examples                                                                
-│   └── example.php          # Sample implementation                                                                
-├── src/                     # Source code folder                                                            
-│   └── MergeImagesToPdf.php # Core functionality for merging images                                                            
-├── .gitignore               # Git ignore file                                                                
-└── README.md                # Project documentation                                                                        
+```plaintext
+merge-images-to-pdf/ 
+├── examples/                # Folder containing usage examples
+│   └── example.php          # Sample implementation
+├── src/                     # Source code folder
+│   └── MergeImagesToPdf.php # Core functionality for merging images
+├── .gitignore               # Git ignore file
+└── README.md                # Project documentation
+```
 
 ## Contributing
 
