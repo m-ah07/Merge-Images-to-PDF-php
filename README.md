@@ -2,7 +2,7 @@
 
 A simple PHP project for merging multiple images into a single PDF file. This project uses the FPDF library to handle PDF generation.
 
-## 🚀 Features
+## ✨ Features
 - Supports multiple image formats (JPEG, PNG, etc.).
 - Dynamically adjusts images to fit within the PDF page.
 
@@ -20,7 +20,7 @@ cd merge-images-to-pdf
 composer install
 ```
 
-## Usage
+## 🚀 Usage
 
 Here's an example of how to use the project:
 
