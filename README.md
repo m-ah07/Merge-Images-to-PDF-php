@@ -2,7 +2,7 @@
 
 A simple PHP project for merging multiple images into a single PDF file. This project uses the FPDF library to handle PDF generation.
 
-## Features
+## 🚀 Features
 - Supports multiple image formats (JPEG, PNG, etc.).
 - Dynamically adjusts images to fit within the PDF page.
 
@@ -10,7 +10,7 @@ A simple PHP project for merging multiple images into a single PDF file. This pr
 - PHP 7.4 or higher.
 - [FPDF library](http://www.fpdf.org/).
 
-## Installation
+## 📖 Installation
 
 Clone the repository and install the required dependencies:
 
@@ -42,17 +42,22 @@ $merger->merge($images, $outputPath);
 echo "PDF successfully created at: {$outputPath}";
 ```
 
-## Folder Structure
+## 📂 Folder Structure
 ```plaintext
 merge-images-to-pdf/ 
-├── examples/                # Folder containing usage examples
-│   └── example.php          # Sample implementation
-├── src/                     # Source code folder
-│   └── MergeImagesToPdf.php # Core functionality for merging images
-├── .gitignore               # Git ignore file
-└── README.md                # Project documentation
+├── examples/
+│   └── example.php
+├── src/
+│   └── MergeImagesToPdf.php
+├── LICENSE
+├── .gitignore
+└── README.md
 ```
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+
+## 🌟 Show Your Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
