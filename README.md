@@ -6,7 +6,7 @@ A simple PHP project for merging multiple images into a single PDF file. This pr
 - Supports multiple image formats (JPEG, PNG, etc.).
 - Dynamically adjusts images to fit within the PDF page.
 
-## Requirements
+## ⚙️ Requirements
 - PHP 7.4 or higher.
 - [FPDF library](http://www.fpdf.org/).
 
