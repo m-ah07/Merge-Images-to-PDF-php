@@ -15,7 +15,7 @@ A simple PHP project for merging multiple images into a single PDF file. This pr
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/marwan-ahmed-23/Merge-Images-to-PDF-php.git
+git clone https://github.com/m-ah07/Merge-Images-to-PDF-php.git
 cd merge-images-to-pdf
 composer install
 ```
